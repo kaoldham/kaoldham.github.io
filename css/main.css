@@ -43,7 +43,7 @@ a {
 /* Selecting elements by ID */
 #main-bio,
 #contact-info,
-#bio-image {
+#ko-image {
   float: left;
 }
 
@@ -51,22 +51,18 @@ a {
   position: relative;
 }
 
-#bio-name {
-  position: absolute;
-  top: 150px;
-  left: 30px;
-}
-
 #main-bio {
   width: 70%;
+  margin-right: 5%;
 }
 
 #contact-info {
-  width: 30%;
+  width: 25%;
 }
 
 #ko-image {
   width: 200px;
   height: 200px;
   margin-right: 20px;
+  border-radius: 50%;
 }
