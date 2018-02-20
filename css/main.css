@@ -44,6 +44,7 @@ td {
   text-align: left;
   vertical-align: top;
   padding-left: 10px;
+  font-size: 17px;
 }
 
 th {
@@ -64,7 +65,7 @@ th {
 
 /* Selecting elements by class */
 .container {
-  width: 1024px;
+  width: 70%;
   margin: 0 auto;
   position: relative
   top: 20px;
