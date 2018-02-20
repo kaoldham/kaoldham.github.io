@@ -37,6 +37,7 @@ a {
 
 table {
   width: 100%;
+  font-size: 17px;
 }
 
 table,
@@ -44,7 +45,6 @@ td {
   text-align: left;
   vertical-align: top;
   padding-left: 10px;
-  font-size: 17px;
 }
 
 th {
