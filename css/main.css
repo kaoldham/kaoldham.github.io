@@ -63,13 +63,14 @@ td {
 
 th {
   font-size: 20px;
+  font-variant: small-caps;
+  font-weight: lighter;
+  text-align: center;
   color: #eee;
   height: 50px;
-  font-variant: small-caps;
-  vertical-align: bototm;
   background-color: #333;
   padding-left: 10px;
-  font-weight: lighter;
+  
 }
 
 .spacer {
